@@ -1,2 +1,2 @@
 # Study-Nest-
-My noted and study hub
+My notes and study hub
